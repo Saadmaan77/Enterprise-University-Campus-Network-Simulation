@@ -1,4 +1,4 @@
-# 🎓 Enterprise University Campus Network Simulation
+# University Campus Network Simulation
 
 A comprehensive multi-tier Cisco Packet Tracer project modeling an enterprise-grade university campus network. The architecture connects three dedicated campus zones—**Administration**, **Labs**, **Dorms**—to an ISP core with centralized authentication, VoIP, dynamic routing, and wireless infrastructure.
 
